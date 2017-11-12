@@ -1,36 +1,26 @@
 # Jykell configuration
-#markdown: redcarpet
-#highlighter: pygments
 markdown: kramdown
 highlighter: rouge
 paginate: 5
 language: 'en-uk'
 
-# Website info
-name: 'Finding The Way Gwanos'
-description: "The story begins here."
-
-# Author's info
-#author: 'Casper McFadden'
-# edit 'categories' in the front matter of every post to match this username
-#nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-image: 'assets/images/casper.png'
-google_analytics: UA-69281367-1
-disqus: username
+# Website infot
+title: 'Gwanos Blog'
+name: 'Gwanos Blog'
+description: "Note"
+author: 
+  name: Lee
+  email: ""
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ""
+baseurl: "/"
 url: 'http://gwanos.github.io'
-#short_url: 'biomadeira.github.io/jasper/'
 github_username: gwanos
 
 # Permalinks
-permalink: /:title
+# permalink: /:title
 # permalink: /author/:username
 # permalink: /tag/:tag
-
 
 # gems and other configs
 gems: [jekyll-paginate]
@@ -55,22 +45,12 @@ exclude: [vendor]
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: false
-lsi: false
-username: biomadeira
-repo: jasper
-branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+#   - Rakefile
+#   - Gemfile
+#   - Gemfile.lock
+#   - changelog.md
+#   - "*.Rmd"
+#   - vendor
+#   - .travis.yml

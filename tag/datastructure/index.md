@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: tag
 title: DataStructure
-class: 'tag'
+description: description..!
+class: 'page'
 navigation: True
-logo: '/assets/images/cover6.jpg'
-#current: DataStructure
+cover: '/assets/images/cover5.jpg'
+permalink: '/tag/datastructure'
+#current: datastructure
 ---

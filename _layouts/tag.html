@@ -9,7 +9,8 @@ current: tag
 
 <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
 {% if page.url contains 'fables' %}
-   {% assign tag_description='A series of short stories that make you think.' %}
+    {% assign new_cover='assets/images/cover3.jpg' %}
+    {% assign tag_description='A series of short stories that make you think.' %}
 {% elsif page.url contains 'speeches' %}
     {% assign new_cover='assets/images/cover7.jpg' %}
     {% assign tag_description='Some of the greatest words ever spoken.' %}

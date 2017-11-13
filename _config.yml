@@ -12,8 +12,8 @@ author:
   email: ""
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ""
-url: 'https://gwanos.github.io'
+#baseurl: ""
+#url: 'https://gwanos.github.io'
 github_username: gwanos
 
 # Permalinks

@@ -13,7 +13,7 @@ author:
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/gwanos.github.io'
-url: 'http://gwanos.github.io'
+url: 'https://gwanos.github.io'
 github_username: gwanos
 
 # Permalinks

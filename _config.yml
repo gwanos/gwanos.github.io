@@ -8,8 +8,8 @@ title: 'Gwanos Blog'
 name: 'Gwanos Blog'
 description: "Note"
 author: 
-  name: Lee
-  email: ""
+  name: 'Lee'
+  email: ''
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ''

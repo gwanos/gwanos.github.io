@@ -12,7 +12,7 @@ feed:
   path: atom.xml
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ''
+baseurl: '/'
 url: 'http://gwanos.github.io/'
 short_url: 'gwanos.github.io/'
 github_username: gwanos

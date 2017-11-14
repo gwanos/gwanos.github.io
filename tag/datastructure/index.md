@@ -5,6 +5,6 @@ description: description..!
 class: 'page'
 navigation: True
 cover: '/assets/images/cover5.jpg'
-permalink: 'datastructure'
+#permalink: 'datastructure'
 #current: datastructure
 ---

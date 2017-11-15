@@ -7,7 +7,8 @@ language: 'en-uk'
 title: 'Gwanos Blog'
 name: 'Gwanos Blog'
 description: "Note"
-author: lee
+author: gwanos
+image: '/assets/images/casper.png'
 feed:
   path: atom.xml
 

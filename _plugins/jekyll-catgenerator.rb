@@ -60,7 +60,7 @@ module Jekyll
       @name = 'rss.xml'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), "tag.xml")
+      self.read_yaml(File.join(base, '_layouts'), "rss_tag.xml")
       self.data[type] = val
       self.data["grouptype"] = type
       self.data["posts"] = posts[0..9]

@@ -19,7 +19,7 @@ url: 'https://gwanos.github.io'
 github_username: gwanos
 
 # Permalinks
-permalink: /:title
+permalink: none
 # permalink: /author/:username
 # permalink: /tag/:tag
 

@@ -15,13 +15,10 @@ feed:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ''
 url: 'https://gwanos.github.io'
-#short_url: 'gwanos.github.io'
 github_username: gwanos
 
 # Permalinks
 permalink: none
-# permalink: /author/:username
-# permalink: /tag/:tag
 
 # gems and other configs
 plugins: 

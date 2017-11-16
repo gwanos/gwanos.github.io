@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: DataStructure
+title: 'Data Structure'
 class: 'tag'
 navigation: True
 cover: '/assets/images/cover5.jpg'

@@ -4,9 +4,9 @@ paginate: 5
 language: 'en-uk'
 
 # Website infot
-title: 'Gwanos Blog'
-name: 'Gwanos Blog'
-description: "Note"
+title: 'Gwanos Note'
+name: 'Gwanos Note'
+description: "TODO: a site description"
 author: gwanos
 image: '/assets/images/casper.png'
 feed:

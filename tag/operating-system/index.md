@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: 'Operating System'
+title: Operating System
 class: 'tag'
 navigation: True
 cover: '/assets/images/cover4.jpg'

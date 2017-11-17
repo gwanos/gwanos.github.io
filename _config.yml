@@ -2,8 +2,10 @@
 incremental: true
 paginate: 5
 language: 'en-uk'
+future: true
+published: true
 
-# Website infot
+# Website info
 title: 'Gwanos Note'
 name: 'Gwanos Note'
 description: "TODO: a site description"

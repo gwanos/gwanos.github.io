@@ -50,9 +50,8 @@ exclude:
 # or "master" otherwise
 
 exclude:
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
+  #- Gemfile
+  #- Gemfile.lock
   - changelog.md
   - "*.Rmd"
   - vendor

@@ -10,11 +10,9 @@ current: tag
 <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
 {% if page.url contains 'data-structure' %}
     {% assign new_cover='/assets/images/cover5.jpg' %}
-    <!-- {% assign new_tag='Data Structure' %} -->
     {% assign tag_description='TODO: a description of data structure.' %}
 {% elsif page.url contains 'operating-system' %}
     {% assign new_cover='/assets/images/cover4.jpg' %}
-    <!-- {% assign new_tag='Operating System' %} -->
     {% assign tag_description='TODO: a description of operating system.' %}    
 {% elsif page.url contains 'fiction' %}
     {% assign new_cover='/assets/images/cover1.jpg' %}
@@ -34,7 +32,7 @@ current: tag
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ page.title }}</h1>   <!-- <h1 class="page-title">{{ page.tag | capitalize | remove: '-' }}</h1> -->
+            <h1 class="page-title">{{ page.title }}</h1>
             <h2 class="page-description">
             {% if tag_description %}
                 {{ tag_description }}

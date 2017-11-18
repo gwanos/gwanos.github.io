@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gwanos Note - Articles</title>
+    <description>TODO: a site description</description>
+    <link>
+    https://gwanos.github.io</link>
+    
+      
+      <item>
+        <title>Hello Os</title>
+        
+          <description>&lt;p&gt;Hello OS.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 16 Nov 2017 10:00:00 +0000</pubDate>
+        <link>
+        https://gwanos.github.io/operating-system/hello-os.html</link>
+        <guid isPermaLink="true">https://gwanos.github.io/operating-system/hello-os.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello Ds</title>
+        
+          <description>&lt;p&gt;Hello DS.&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 13 Nov 2017 10:00:00 +0000</pubDate>
+        <link>
+        https://gwanos.github.io/data-structure/hello-ds.html</link>
+        <guid isPermaLink="true">https://gwanos.github.io/data-structure/hello-ds.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

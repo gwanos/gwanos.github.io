@@ -1,6 +1,7 @@
 # Jykell configuration
 incremental: true
 paginate: 5
+paginate_path: /page:num
 language: 'en-uk'
 future: true
 published: true

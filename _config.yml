@@ -5,6 +5,7 @@ paginate_path: /page:num
 language: 'en-uk'
 future: true
 published: true
+safe: false
 
 # Website info
 title: 'Gwanos Note'

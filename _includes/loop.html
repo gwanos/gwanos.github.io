@@ -14,7 +14,7 @@
     </div>
 
     <!-- This is the post loop - each post will be output using this markup -->
-    {% for post in paginator.total_posts %}
+    {% for post in paginator.posts %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>

@@ -4,6 +4,7 @@ paginate: 5
 language: 'en-uk'
 future: true
 published: true
+safe: false
 
 # Website info
 title: 'Gwanos Note'
